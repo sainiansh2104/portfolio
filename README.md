@@ -3,7 +3,7 @@
 A responsive portfolio website showcasing my profile, skills, projects and professional links.
 
 ## Live Portfolio
-https://portfolio-snowy-five-439q9n0hhr.vercel.app/
+[https://portfolio-snowy-five-439q9n0hhr.vercel.app/](https://portfolio-gwu2-git-main-portfolio-e8f0.vercel.app/)
 
 
 ## Tech Stack
