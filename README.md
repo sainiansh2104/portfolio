@@ -5,15 +5,6 @@ A responsive portfolio website showcasing my profile, skills, projects and profe
 ## Live Portfolio
 https://portfolio-snowy-five-439q9n0hhr.vercel.app/
 
-## Screenshots
-
-### Hero / About Section
-
-![Portfolio Hero and About Section](heroSection.png)
-
-### Skills and Projects Section
-
-![Portfolio Skills and Projects Section](skillsAndProjectsSection.png)
 
 ## Tech Stack
 
